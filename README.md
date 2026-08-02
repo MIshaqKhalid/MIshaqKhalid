@@ -65,14 +65,6 @@ const ishaq = {
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=MIshaqKhalid&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<br/>
-
 ## 💡 Random Dev Quote
 
 <div align="center">
