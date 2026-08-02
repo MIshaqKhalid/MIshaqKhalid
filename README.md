@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ishaq%20Khalid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ishaq%20Khalid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20and%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ishaq+%F0%9F%91%8B;BSCS+Student+%40+FAST-NUCES;Google+Cybersecurity+Certified;Microsoft+Student+Ambassador;Breaking+networks+before+hackers+do+%F0%9F%98%84" alt="Typing SVG" />
@@ -68,7 +68,7 @@ const ishaq = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=MIshaqKhalid&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/MIshaqKhalid/MIshaqKhalid/main/trophy.svg" />
 </div>
 
 <br/>
