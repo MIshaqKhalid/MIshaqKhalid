@@ -16,17 +16,31 @@
 
 <br/>
 
-```javascript
-const ishaq = {
-    location: "Lahore, Pakistan 🇵🇰",
-    education: "BSCS @ FAST-NUCES, Class of 2029",
-    certifications: ["Google Cybersecurity Professional"],
-    role: "Microsoft Student Ambassador",
-    currentlyExploring: ["Cybersecurity", "OSINT", "Networking", "AI"],
-    baseOS: "Linux 🐧",
-    funFact: "I break networks before hackers do 😄"
-};
+```bash
+ishaq@fastnuces:~$ whoami
+> Ishaq Khalid — BSCS student, Lahore, Pakistan 🇵🇰
+
+ishaq@fastnuces:~$ cat certifications.txt
+> Google Cybersecurity Professional ✅
+
+ishaq@fastnuces:~$ cat current_role.txt
+> Microsoft Student Ambassador
+
+ishaq@fastnuces:~$ grep -r "interests" ./mindset
+> Cybersecurity | OSINT | Networking | AI
+
+ishaq@fastnuces:~$ uname -o
+> Linux 🐧 — daily driver
+
+ishaq@fastnuces:~$ echo $FUN_FACT
+> "I break networks before hackers do 😄"
+
+ishaq@fastnuces:~$ _
 ```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MIshaqKhalid/MIshaqKhalid/main/matrix-banner.svg" width="100%"/>
+</div>
 
 <br/>
 
@@ -62,6 +76,16 @@ const ishaq = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIshaqKhalid&theme=tokyonight&hide_border=true" />
 </div>
+
+<br/>
+
+## 🎯 Currently Hunting
+
+- 🔐 Leveling up beyond the Google Cybersecurity fundamentals
+- 🛰️ Practicing OSINT recon techniques on CTF platforms
+- 🧠 Exploring where AI meets security tooling
+- 🌐 Going deeper on networking internals
+- 🏁 Looking for my first CTF team
 
 <br/>
 
