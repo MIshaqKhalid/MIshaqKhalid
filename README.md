@@ -47,7 +47,7 @@ ishaq@fastnuces:~$ _
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,css,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,css,linux&theme=dark" />
 </div>
 
 <br/>
